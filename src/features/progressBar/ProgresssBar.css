@@ -1,0 +1,22 @@
+.container{
+    border-radius: 15px;
+    width: 80%;
+    height: 30px;
+    background-color: black;
+    border: 2px solid white;
+  }
+  
+  .slide-bar{
+    height: 30px;
+    background-color: aqua;
+    transition: all;
+    transition-duration: 1000ms;
+    border: 2px solid white;
+  }
+  .text{
+    position: absolute;
+    left: 50%;
+    bottom: 2px;
+    color: white;
+  }
+  

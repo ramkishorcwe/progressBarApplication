@@ -1,0 +1,14 @@
+.main{
+    text-align: center !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10px;
+}
+
+.progress-bar {
+    background-color: whitesmoke;
+    height: 30px;
+    border-radius: 10px;
+}
